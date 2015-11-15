@@ -28,14 +28,14 @@ namespace DoAnCuoiKy.Logic
             var userMgr = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(db));
             var appUser = new ApplicationUser
             {
-                UserName = "pttan@gmail.com",
-                Email = "pttan@gmail.com"
+                UserName = "nhatsinh18@gmail.com",
+                Email = "nhatsinh18@gmail.com"
             };
-            IdUserResult = userMgr.Create(appUser, "Thanhtan1310*");
+            IdUserResult = userMgr.Create(appUser, "NhatSinh123*");
 
-            if (!userMgr.IsInRole(userMgr.FindByEmail("pttan@gmail.com").Id, "canEdit"))
+            if (!userMgr.IsInRole(userMgr.FindByEmail("nhatsinh18@gmail.com").Id, "canEdit"))
             {
-                IdUserResult = userMgr.AddToRole(userMgr.FindByEmail("pttan@gmail.com").Id, "canEdit");
+                IdUserResult = userMgr.AddToRole(userMgr.FindByEmail("nhatsinh18@gmail.com").Id, "canEdit");
             }
         }
     }
