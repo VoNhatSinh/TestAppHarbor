@@ -33,13 +33,13 @@
     <h1>Thông tin cửa hàng</h1>
 
     <h3>Thông tin liên lạc</h3>
-    <CKEditor:CKEditorControl ID="info_contact" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
+    <CKEditor:CKEditorControl ID="info_contact" BasePath="/fckeditor/" runat="server"></CKEditor:CKEditorControl>
 
     <h3>Trung tâm bảo hành</h3>
-    <CKEditor:CKEditorControl ID="warranty" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
+    <CKEditor:CKEditorControl ID="warranty" BasePath="/fckeditor/" runat="server"></CKEditor:CKEditorControl>
 
     <h3>Hệ thống của hàng</h3>
-    <CKEditor:CKEditorControl ID="showroom" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
+    <CKEditor:CKEditorControl ID="showroom" BasePath="/fckeditor/" runat="server"></CKEditor:CKEditorControl>
     <asp:Button runat="server" Text="Lưu" ID="save_info" OnClick="save_info_Click" />
 
     <script type="text/javascript">

@@ -35,7 +35,7 @@
                 <td>
                     <asp:Label ID="Label3" runat="server">Cấu hình chi tiết:</asp:Label></td>
                 <td>
-                    <CKEditor:CKEditorControl ID="AddProductDetail" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
+                    <CKEditor:CKEditorControl ID="AddProductDetail" BasePath="/fckeditor/" runat="server"></CKEditor:CKEditorControl>
                 </td>
             </tr>
             <tr>
@@ -51,7 +51,7 @@
                 <td>
                     <asp:Label ID="Label6" runat="server">Đánh giá sản phẩm:</asp:Label></td>
                 <td>
-                    <CKEditor:CKEditorControl ID="AddProductReview" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
+                    <CKEditor:CKEditorControl ID="AddProductReview" BasePath="/fckeditor/" runat="server"></CKEditor:CKEditorControl>
                 </td>
             </tr>
             <tr>
@@ -65,14 +65,14 @@
                 <td>
                     <asp:Label ID="Label8" runat="server">Quà tặng:</asp:Label></td>
                 <td>
-                    <CKEditor:CKEditorControl ID="AddProductGift" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
+                    <CKEditor:CKEditorControl ID="AddProductGift" BasePath="/fckeditor/" runat="server"></CKEditor:CKEditorControl>
                 </td>
             </tr>
             <tr>
                 <td>
                     <asp:Label ID="Label9" runat="server">Ưu đãi:</asp:Label></td>
                 <td>
-                    <CKEditor:CKEditorControl ID="AddProductsale" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
+                    <CKEditor:CKEditorControl ID="AddProductsale" BasePath="/fckeditor/" runat="server"></CKEditor:CKEditorControl>
                 </td>
             </tr>
             <tr>
