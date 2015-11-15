@@ -1,52 +1,55 @@
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\DoAnCuoiKy.dll.config
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\DoAnCuoiKy.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\DoAnCuoiKy.pdb
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Antlr3.Runtime.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\AspNet.ScriptManager.bootstrap.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\AspNet.ScriptManager.jQuery.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\EntityFramework.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\EntityFramework.SqlServer.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.FriendlyUrls.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.Core.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.Owin.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Host.SystemWeb.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.Cookies.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.Facebook.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.Google.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.OAuth.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.Twitter.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.ScriptManager.MSAjax.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.ScriptManager.WebForms.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Web.Infrastructure.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Newtonsoft.Json.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Owin.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\System.Web.Optimization.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\System.Web.Providers.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\WebGrease.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\System.Web.Optimization.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Antlr3.Runtime.pdb
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Newtonsoft.Json.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.FriendlyUrls.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\EntityFramework.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\EntityFramework.SqlServer.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.Core.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.Owin.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\System.Web.Providers.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Host.SystemWeb.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.Facebook.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.Cookies.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.Google.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.Twitter.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\bin\Microsoft.Owin.Security.OAuth.xml
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\obj\Release\DoAnCuoiKy.csprojResolveAssemblyReference.cache
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\obj\Release\DoAnCuoiKy.dll
-F:\HKI 2015-2016\Cong_nghe_moi\Exercises\Nhom19-1212326-1212354-1212357\Nhom19-1212326-1212354-1212357\Source\DoAnCuoiKy\DoAnCuoiKy\obj\Release\DoAnCuoiKy.pdb
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\DoAnCuoiKy.dll.config
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\DoAnCuoiKy.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\DoAnCuoiKy.pdb
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Antlr3.Runtime.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\AspNet.ScriptManager.bootstrap.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\AspNet.ScriptManager.jQuery.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\CkEditor.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\CKEditor.NET.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\EntityFramework.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\EntityFramework.SqlServer.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Google.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.ScriptManager.WebForms.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Web.Infrastructure.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Newtonsoft.Json.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Owin.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\System.Web.Optimization.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\System.Web.Providers.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\WebGrease.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\CkEditor.pdb
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\CKEditor.NET.pdb
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\System.Web.Optimization.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Antlr3.Runtime.pdb
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Newtonsoft.Json.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\EntityFramework.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\EntityFramework.SqlServer.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\System.Web.Providers.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Google.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\obj\Release\DoAnCuoiKy.dll
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\obj\Release\DoAnCuoiKy.pdb
