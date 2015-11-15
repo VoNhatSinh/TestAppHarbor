@@ -620,6 +620,10 @@
     <Content Include="style\image\acer-iconia-tab-7-review4.jpg" />
     <Content Include="style\image\acer-iconia-tab-7-review5.jpg" />
     <Content Include="style\image\acer-iconia-tab-7-review6.jpg" />
+    <Content Include="style\image\asus-zenfone-5-1.jpg" />
+    <Content Include="style\image\asus-zenfone-5-2.jpg" />
+    <Content Include="style\image\asus-zenfone-5-3.jpg" />
+    <Content Include="style\image\asus-zenfone-5-4.jpg" />
     <Content Include="style\image\asus-zenfone-5-img1.jpg" />
     <Content Include="style\image\asus-zenfone-5-review1.jpg" />
     <Content Include="style\image\asus-zenfone-5-review2.jpg" />
@@ -639,6 +643,11 @@
     <Content Include="style\image\asus-zenfone-6-review4.jpg" />
     <Content Include="style\image\asus-zenfone-6-review5.jpg" />
     <Content Include="style\image\backtotop.png" />
+    <Content Include="style\image\banner\banner_left1.jpg" />
+    <Content Include="style\image\banner\banner_left2.jpg" />
+    <Content Include="style\image\banner\banner_left3.jpg" />
+    <Content Include="style\image\banner\banner_left4.jpg" />
+    <Content Include="style\image\bao-da-tucano-unica-review1.jpg" />
     <Content Include="style\image\bao-da-tucano-unica-review2.jpg" />
     <Content Include="style\image\bao-da-tucano-unica-review3.jpg" />
     <Content Include="style\image\bao-da-tucano-unica-review4.jpg" />
@@ -760,6 +769,10 @@
     <Content Include="style\image\oppo-r5.jpg" />
     <Content Include="style\image\prev-2.png" />
     <Content Include="style\image\remove.png" />
+    <Content Include="style\image\sac-da-nang-1.jpg" />
+    <Content Include="style\image\sac-da-nang-2.jpg" />
+    <Content Include="style\image\sac-da-nang-3.jpg" />
+    <Content Include="style\image\sac-da-nang-4.jpg" />
     <Content Include="style\image\samsung-galaxy-e5-1.jpg" />
     <Content Include="style\image\samsung-galaxy-e5-2.jpg" />
     <Content Include="style\image\samsung-galaxy-e5-3.jpg" />
