@@ -39,10 +39,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CkEditor">
+    <Reference Include="CkEditor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\CkEditor\CkEditor\bin\CkEditor.dll</HintPath>
     </Reference>
-    <Reference Include="CKEditor.NET">
+    <Reference Include="CKEditor.NET, Version=3.6.4.0, Culture=neutral, PublicKeyToken=e379cdf2f8354999, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\CkEditor\CkEditor\bin\CKEditor.NET.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
@@ -188,6 +190,10 @@
     <Content Include="Category.aspx" />
     <Content Include="Checkout.aspx" />
     <Content Include="Checkout_success.aspx" />
+    <Content Include="CkEditor\CkEditor\bin\CkEditor.dll" />
+    <Content Include="CkEditor\CkEditor\bin\CKEditor.NET.dll" />
+    <Content Include="CkEditor\CkEditor\bin\CKEditor.NET.pdb" />
+    <Content Include="CkEditor\CkEditor\bin\CkEditor.pdb" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
