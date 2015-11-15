@@ -53,3 +53,4 @@ E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.Microso
 E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\bin\Microsoft.Owin.Security.OAuth.xml
 E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\obj\Release\DoAnCuoiKy.dll
 E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\obj\Release\DoAnCuoiKy.pdb
+E:\konfig\AppHarbor\TestAppHarbor\DoAnCuoiKy\obj\Release\DoAnCuoiKy.csprojResolveAssemblyReference.cache

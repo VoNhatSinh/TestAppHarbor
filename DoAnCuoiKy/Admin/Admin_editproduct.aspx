@@ -1,6 +1,5 @@
 ﻿<%@ Page Title="Chi tiết sản phẩm" Language="C#" MasterPageFile="~/eWorld.Master" AutoEventWireup="true" CodeBehind="Admin_editproduct.aspx.cs" Inherits="DoAnCuoiKy.Admin.Admin_editproduct" %>
 <%@ Register Assembly="CKEditor.NET" Namespace="CKEditor.NET" TagPrefix="CKEditor" %>
-
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="space"></div>
     <asp:HyperLink runat="server" ID="back_admin" NavigateUrl="~/Admin/Admin_product.aspx">Quay về trang quản lý sản phẩm</asp:HyperLink>
@@ -65,6 +64,7 @@
                     <asp:Label ID="Label8" runat="server">Quà tặng:</asp:Label></td>
                 <td>
                     <CKEditor:CKEditorControl ID="AddProductGift" BasePath="/ckeditor/" runat="server"></CKEditor:CKEditorControl>
+                 
                 </td>
             </tr>
             <tr>
