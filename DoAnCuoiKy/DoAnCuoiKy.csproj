@@ -630,11 +630,6 @@
     <Content Include="style\image\asus-zenfone-5-review7.jpg" />
     <Content Include="style\image\asus-zenfone-5-review8.jpg" />
     <Content Include="style\image\backtotop.png" />
-    <Content Include="style\image\banner_left1.jpg" />
-    <Content Include="style\image\banner_left2.jpg" />
-    <Content Include="style\image\banner_left3.jpg" />
-    <Content Include="style\image\banner_left4.jpg" />
-    <Content Include="style\image\bao-da-tucano-unica-review1.jpg" />
     <Content Include="style\image\bao-da-tucano-unica-review2.jpg" />
     <Content Include="style\image\bao-da-tucano-unica-review3.jpg" />
     <Content Include="style\image\bao-da-tucano-unica-review4.jpg" />
@@ -721,9 +716,6 @@
     <Content Include="style\image\loa-x-mini-clear-review5.jpg" />
     <Content Include="style\image\logo.jpg" />
     <Content Include="style\image\menubg.png" />
-    <Content Include="style\image\news_1.jpg" />
-    <Content Include="style\image\news_2.jpg" />
-    <Content Include="style\image\news_3.jpg" />
     <Content Include="style\image\next-2.png" />
     <Content Include="style\image\oppo-r5-img1.jpg" />
     <Content Include="style\image\oppo-r5-img2.jpg" />
